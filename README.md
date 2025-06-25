@@ -17,6 +17,9 @@ Một ứng dụng portfolio cá nhân hiện đại và đẹp mắt được x
 - **Animations**: Hiệu ứng chuyển động mượt mà và bắt mắt
 - **Dark Theme**: Thiết kế tối với gradient màu sắc đẹp mắt
 
+![image](https://github.com/user-attachments/assets/f649b3ad-6586-4940-804a-180d8f8bedd3)
+
+
 ### 🔧 Giao Diện Admin
 - **Dashboard Quản Lý**: Giao diện admin thân thiện để chỉnh sửa nội dung
 - **Quản Lý Profile**: Cập nhật thông tin cá nhân, avatar, bio
@@ -25,6 +28,9 @@ Một ứng dụng portfolio cá nhân hiện đại và đẹp mắt được x
 - **Quản Lý Social Media**: Cấu hình các liên kết mạng xã hội
 - **Theme Switcher**: Chuyển đổi giữa các background theme
 - **Bảo Mật**: Hệ thống đăng nhập admin với mật khẩu
+
+![image](https://github.com/user-attachments/assets/3e7b9183-cfa2-40f4-97c8-ff412db55a85)
+
 
 ### 🚀 Tính Năng Kỹ Thuật
 - **Local Storage**: Lưu trữ dữ liệu locally
@@ -64,8 +70,8 @@ Một ứng dụng portfolio cá nhân hiện đại và đẹp mắt được x
 
 ### Bước 1: Clone Repository
 ```bash
-git clone <your-repository-url>
-cd mini-profile-site-main
+git clone https://github.com/phucdevz/Web_Profile.git
+cd Web_Profile
 ```
 
 ### Bước 2: Cài Đặt Dependencies
